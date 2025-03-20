@@ -21,8 +21,7 @@ Este projeto é um simulador de cadastro e login desenvolvido para fins educacio
 - **Linguagem de Programação**: JavaScript
 - **Frontend**: [React](https://reactjs.org/) (biblioteca para construção de interfaces)
 - **Backend**: Node.js com Express (para a API)
-- **Banco de Dados**: [MongoDB](https://www.mongodb.com/) (banco de dados NoSQL)
+- **Banco de Dados**: [MongoDB](https://www.mongodb.com/)
 - **ORM**: [Prisma](https://www.prisma.io/) (para gerenciamento do banco de dados)
-- **Autenticação**: JSON Web Tokens (JWT) para gerenciamento de sessões
 
 ---
